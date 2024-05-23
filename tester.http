@@ -1,0 +1,5 @@
+### get currency
+GET http://api.napiarfolyam.hu?bank=mnb&valuta=eur
+
+### get all fastfood
+GET https://fastfoodvasvari.azurewebsites.net/list
